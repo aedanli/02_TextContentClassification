@@ -2,7 +2,7 @@
 Build a content-based classifier to predict the category of text from an imbalanced unlabelled dataset.
 
 ## Motivation:
-For a presentation on this project, see https://aedanyue.files.wordpress.com/2023/08/textclassification.pdf 
+For a presentation on this project, see https://aedanyue.files.wordpress.com/2023/08/textclassification-1.pdf
 
 A common goal is to determine whether text belongs to certain categories without knowledge of the class labels in advance, such as 1) identifying types of news article from the headline, 2) whether text is spam, 3) the text sentiment, or 4) identifying text from a bot.
 In this project, let’s predict the category of news headline from an unlabelled dataset.
