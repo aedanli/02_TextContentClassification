@@ -20,6 +20,6 @@ For the unlabelled test set, we will use 20,000+ recent headlines scraped from B
 
 ## Future Directions:
 - Train on extremely imbalanced dataset (1:100 ratio)
-- Try multiclass classifciation
+- Try multiclass classification
 - Try neural networks
 - Generalize classifier to social media platforms (e.g., Reddit, Twitter)
