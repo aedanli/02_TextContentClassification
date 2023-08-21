@@ -1,5 +1,5 @@
 # 2_TextContentClassification
-Build a content-based classifier to predict the category of text from an imbalanced unlabelled dataset
+Build a content-based classifier to predict the category of text from an imbalanced unlabelled dataset.
 
 ## Motivation:
 For a presentation on this project, see https://aedanyue.files.wordpress.com/2023/08/textclassification.pdf 
